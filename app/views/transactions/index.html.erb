@@ -58,7 +58,7 @@
       </tr>
       <tr>
         <td>Biggest expense this month: </td>
-        <td><%= @transactions.biggest_this_month %></td>
+        <td><%= @transactions.biggest_this_month if @transactions.transactions_this_month != 0 %></td>
       </tr>
       <tr>
         <td>Biggest expense ever: </td>
