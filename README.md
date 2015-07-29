@@ -14,7 +14,10 @@ An app to track your dough.
 
 ###How it was built
 
-1. The magic of Rails scaffolds
+1. The magic of Rails scaffolds and REST
 2. A Transactions model and controller with slick methods to mine data from your purchase history
 3. State of the art ERB and CSS. Skull tags: we got 'em. Divs on divs. Float left/right and clear both.
 4. Test-driven development, of course. Fabulous run.
+
+
+######*Assignment from Week 5 of The Iron Yard's Ruby on Rails course (Durham)*
